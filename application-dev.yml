@@ -1,6 +1,8 @@
 
 management:
   endpoints:
+    shutdown:
+      enabled: true
     web:
       exposure:
         include: "*"
