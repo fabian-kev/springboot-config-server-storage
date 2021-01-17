@@ -1,9 +1,0 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:500/eureka/
-
-spring:
-  cloud:
-    config:
-      uri: http://localhost:8888
