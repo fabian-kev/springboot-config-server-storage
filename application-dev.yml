@@ -1,5 +1,5 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:500/eureka/
+# eureka:
+#   client:
+#     serviceUrl:
+#       defaultZone: http://localhost:500/eureka/
 
