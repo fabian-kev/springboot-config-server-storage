@@ -1,0 +1,8 @@
+message: Ohayou gosaimuch!
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        exclude: "env,beans"
