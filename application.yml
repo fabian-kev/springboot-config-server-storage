@@ -6,3 +6,10 @@ management:
       exposure:
         include: "*"
         exclude: "env,beans"
+        
+        
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:500/eureka/
